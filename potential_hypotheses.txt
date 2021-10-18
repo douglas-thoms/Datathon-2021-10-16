@@ -1,2 +1,53 @@
-'High engagement correlates with engaging (liking, retweeting) other accounts' content'
+Hypotheses to test
+'hashtag choice of words impact engagement'
+'hashtag absent reduces engagement'
+'time of tweets impacts engagement'
+'different industries impact have different hashtags and time of tweets - different profiles'
+'the most successful tweets are in the same industries'
 
+
+
+
+What is engagement? Any interaction with a tweet
+Why is engagement wanted? Engagement can be wanted for many reasons - to get a specific action like attend an event or bring awareness of an issue or a position.  Common point is visibility is increased.
+
+What are the metrics measuring engagement? (no priority)
+for tweet
+-favourite count
+-retweet count
+
+for overall performance (where are they now - may point to who is more successful)
+follower count when tweets extracted
+friends count when tweets extracted
+
+Lots of work would be needed to classify different tweets to different intents.  Under current requirements, its best to assume that the motivation for engagement is visibility?
+
+
+
+Observations:
+-not all tweets have hashtags - research suggests that's important, does it impact hashtags
+
+Observable data
+-types of posts (available but limited - has media, is quote, is reply, is retweet)
+-contains a URL, number of Urls (available)
+-organize, type of organization (available)
+-sentiment (available but difficult)
+-time of tweet (available)
+-followers that engaged (not avaiable)
+-growth in followers (not available)
+-organization location (available)
+
+Questions:
+-what kind of hashtags are ideal?
+-can we determine the geography of where the tweets were engaged with?  for different organization geography is different - some like LGBQT are probably happy with a global reach, but not as useful for local libraries
+-what times are best? (available)
+-when were these tweets made?
+-who is their audience? who are they attracting?
+What are the common themes for posts that drive engagement ?
+what are sentiments? (available - might be too complex)
+how have friends, etc increased in time?
+when did they start tweeting?
+how do I determine the type of media?
+
+
+Phase 1 - focus on time, hashtag and industry
